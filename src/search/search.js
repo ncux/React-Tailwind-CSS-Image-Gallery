@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 
-
 export const Search = ({ searchPictures }) => {
 
     const [query, setQuery] = useState('');
